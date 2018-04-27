@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "pg-promise": "^8.4.0"
+  }
+}
